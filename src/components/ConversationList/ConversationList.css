@@ -1,0 +1,7 @@
+.conversation-list {
+  display: flex;
+  flex-direction: column;
+}
+.conversation-list h3 {
+  text-align: center;
+}
